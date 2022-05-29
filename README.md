@@ -1,3 +1,1 @@
-# react_website
-
-Starter code was obtained from: https://github.com/briancodex/react-website-v1/tree/starter
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
